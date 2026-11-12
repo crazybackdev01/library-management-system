@@ -1,0 +1,17 @@
+# Build artifacts
+build/*
+!build/.gitkeep
+# Data files (runtime generated)
+data/*.txt
+!data/.gitkeep
+# Editor files
+.vscode/
+.idea/
+*.swp
+# OS files
+.DS_Store
+Thumbs.db
+# Binaries
+*.o
+*.exe
+*.out

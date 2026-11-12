@@ -1,0 +1,2 @@
+1. g++ -std=c++17 src/main.cpp src/Book.cpp src/Member.cpp -o build\library.exe
+2. build\library.exe
